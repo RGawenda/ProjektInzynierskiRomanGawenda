@@ -1,0 +1,9 @@
+[submodule "AIMineralIdentificationService"]
+	path = AIMineralIdentificationService
+	url = https://github.com/RGawenda/AIMineralIdentificationService
+[submodule "MineralIdentificationService"]
+	path = MineralIdentificationService
+	url = https://github.com/RGawenda/MineralIdentificationService
+[submodule "MineralIdentyficationApp"]
+	path = MineralIdentyficationApp
+	url = https://github.com/RGawenda/MineralIdentyficationApp
